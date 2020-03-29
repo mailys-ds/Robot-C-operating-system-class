@@ -16,7 +16,7 @@ This file shows the contributions of the single team members.
 - Adding images and videos to the website
 
 
-## Mailys Desvignes
+## Mailys
 - Setting up the architecture of the robot
 - Writing functions: 
      -to connect the sensors: set-up color-sensor mode, executable file to test the sensors 
