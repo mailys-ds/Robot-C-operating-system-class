@@ -2,7 +2,7 @@
 
 This file shows the contributions of the single team members.
 
-## Colombe Lopez
+## Colombe 
 - Setting up the architecture of the robot
 - Writing functions to
     - grab the ball
@@ -30,7 +30,7 @@ This file shows the contributions of the single team members.
 - Final tests and debbuging of the robot
 
 
-## Thomas Defard
+## Thomas
 - design the structure of the robot
 - Writing functions to
     - find the Ball
@@ -44,7 +44,7 @@ This file shows the contributions of the single team members.
 - adding threads to deals with the server
 
 
-## Jakob Fittler
+## Jakob 
 - Setting up the gitlab project
 - Creating the directories for the project, including all files and the crosscompiling commands
 - Writing all functions to read values from sensors
