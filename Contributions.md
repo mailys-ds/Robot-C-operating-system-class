@@ -19,14 +19,11 @@ This file shows the contributions of the single team members.
 ## Mailys
 - Setting up the architecture of the robot
 - Writing functions: 
-     - to connect the sensors: set-up color-sensor mode, executable file to test the sensors 
-     - related to the robot actions:
-	 - score and throw the initial two balls, 
-	 - come back to its initial position and angular position once the balls are scored,
-	 - find_a_ball_score_and_go_back_to_initial_position() (not used but inspired)
-     - to make the calibration of the robot: (finally not used because too uncertain and too long and mainly because our robot has already uncertainties with higher priority to work on)
-	 - go forward until a black line in found
-	 - measure the time to reach the opposite line
+     - to connect the sensors (set-up color-sensor mode, executable file to test the sensors)
+     - score and throw the initial two balls, 
+     - come back to its initial position and angular position once the balls are scored
+     - find a ball score and go back to its initial position 
+     - to make the calibration of the robot (finally not used because too uncertain and too long and mainly because our robot has already uncertainties with higher priority to work on)
 - Final tests and debbuging of the robot
 
 
