@@ -20,7 +20,7 @@ This file shows the contributions of the single team members.
 - Setting up the architecture of the robot
 - Writing functions: 
      -to connect the sensors: set-up color-sensor mode, executable file to test the sensors 
-     -related to the robot actions :
+     -related to the robot actions:
 	 - score and throw the initial two balls, 
 	 - come back to its initial position and angular position once the balls are scored,
 	 - find_a_ball_score_and_go_back_to_initial_position() (not used but inspired)
